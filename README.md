@@ -29,3 +29,6 @@ To do:
 *tinker around w/ benchmarking various types of configs
 
 *License. 
+
+
+**************If you feel that anything here could be revised or improved please submit a pull request**************
